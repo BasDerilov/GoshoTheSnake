@@ -1,0 +1,11 @@
+{
+  "name": "gosho",
+  "version": "1.0.0",
+  "description": "Gosho the alchoholic snake (game)",
+  "main": "script.js",
+  "scripts": {
+    "test": "live-server"
+  },
+  "author": "Vasil Derilov",
+  "license": "ISC"
+}

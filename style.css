@@ -1,0 +1,65 @@
+body {
+  background-color: rgb(44, 44, 44);
+}
+
+div {
+  margin: auto;
+  text-align: center;
+}
+
+#point-board {
+  background-color: greenyellow;
+  width: fit-content;
+  padding: 3px;
+  border-top-left-radius: 2px;
+  border-top-right-radius: 2px;
+  margin: auto;
+  margin-bottom: 0;
+  text-align: center;
+}
+#trademark {
+  margin-top: 1000px;
+}
+#snakeBoard {
+  background-color: "gray";
+  display: block;
+}
+#vodkaSquare {
+  margin: auto;
+  margin-top: 20px;
+}
+#vodkaTip {
+  margin-left: auto;
+  color: cornsilk;
+}
+#meatSquare {
+  margin-left: 15px;
+  margin-top: 20px;
+}
+#meatTip {
+  margin-left: 5px;
+  color: cornsilk;
+}
+.vodka {
+  display: inline-block;
+  width: 20px;
+  height: 20px;
+  background-color: rgb(0, 255, 255);
+}
+.meat {
+  display: inline-block;
+  width: 20px;
+  height: 20px;
+  background-color: rgb(212, 102, 121);
+}
+.center {
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+}
+.alignedLeft {
+  text-align: left;
+}
+.alignedRight {
+  text-align: right;
+}
